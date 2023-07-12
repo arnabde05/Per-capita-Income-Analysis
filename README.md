@@ -41,6 +41,6 @@ The project generates a choropleth map that visualizes the per capita income of 
 ![output](https://github.com/arnabde05/Per-capita-Income-Analysis/assets/87455060/c2342eb0-47b0-471e-8f3e-ec2134347158)
 
 
-
+##### Copyright reserved- 2023 ArnabDe
 
 
