@@ -2,23 +2,23 @@
 This project focuses on visualizing and analyzing the per capita income of Indian states using a choropleth map. It extracts data from a website and creates a geographical chart that differentiates the income levels across various states. The project aims to provide insights into the economic disparities and distribution of wealth in different regions of India.
 
 #### Table of Contents
-Introduction
-Requirements
-Methodology
-Results
+- Introduction
+- Requirements
+- Methodology
+- Results
 
 #### Introduction
-The per capita income is an essential economic indicator that measures the average income earned per person in a specific region. This project extracts data from a specific website that lists the per capita income of Indian states and creates a choropleth map using the extracted data. The choropleth map provides a visual representation of the income levels across different states, enabling users to understand the income disparities and patterns in India.
+The per capita income is an essential economic indicator that measures the average income earned per person in a specific region. This project extracts data from a specific website that lists the per capita income of Indian states and creates a choropleth map using the extracted data. The choropleth map visually represents the income levels across different states, enabling users to understand the income disparities and patterns in India.
 
 #### Requirements
 To run this project, you need the following requirements:
 
-Python 3.9.0
-BeautifulSoup
-Requests
-Pandas
-Matplotlib
-Geopandas
+- Python 3.9.0
+- BeautifulSoup
+- Requests
+- Pandas
+- Matplotlib
+- Geopandas
 
 #### Methodology
 Using web scraping techniques, the script fetches the per capita income data from the provided website.
