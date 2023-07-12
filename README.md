@@ -1,16 +1,16 @@
 # Per Capita Income of Indian States: Choropleth Map Analysis
 This project focuses on visualizing and analyzing the per capita income of Indian states using a choropleth map. It extracts data from a website and creates a geographical chart that differentiates the income levels across various states. The project aims to provide insights into the economic disparities and distribution of wealth in different regions of India.
 
-#### Table of Contents
+### Table of Contents
 - Introduction
 - Requirements
 - Methodology
 - Results
 
-#### Introduction
+### Introduction
 The per capita income is an essential economic indicator that measures the average income earned per person in a specific region. This project extracts data from a specific website that lists the per capita income of Indian states and creates a choropleth map using the extracted data. The choropleth map visually represents the income levels across different states, enabling users to understand the income disparities and patterns in India.
 
-#### Requirements
+### Requirements
 To run this project, you need the following requirements:
 
 - Python 3.9.0
@@ -20,7 +20,7 @@ To run this project, you need the following requirements:
 - Matplotlib
 - Geopandas
 
-#### Methodology
+### Methodology
 Using web scraping techniques, the script fetches the per capita income data from the provided website.
 It parses the HTML content of the webpage using BeautifulSoup.
 The extracted data is then processed and transformed into a Pandas DataFrame for further analysis.
@@ -35,12 +35,11 @@ The resulting visualization is displayed using Matplotlib.
 
 ![download](https://github.com/arnabde05/Per-capita-Income-Analysis/assets/87455060/617553b3-a578-4879-8460-31ed8b8ffd06)
 
-#### Results
+### Results
 The project generates a choropleth map that visualizes the per capita income of Indian states. The map clearly represents the income disparities and patterns across different regions. Users can easily identify states with higher or lower income levels, allowing for a better understanding of the economic landscape in India.
 
 ![output](https://github.com/arnabde05/Per-capita-Income-Analysis/assets/87455060/c2342eb0-47b0-471e-8f3e-ec2134347158)
 
 
-##### Copyright reserved- 2023 ArnabDe
-
+#### Copyright reserved- 2023 ArnabDe
 
